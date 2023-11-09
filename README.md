@@ -1,2 +1,2 @@
 # restaurant-website
-My Responsive website using HTML, CSS &amp; Bootstrap.
+Responsive website using HTML, CSS &amp; Bootstrap.
